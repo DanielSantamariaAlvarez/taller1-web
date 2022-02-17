@@ -31,6 +31,38 @@ nav a {
   z-index: 1030;
 }
 
+/* Banner */
+.banner {
+  background-image: url(https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGRldmVsb3BlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60);
+  position: center;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 500px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+}
+
+.banner h1, .banner h3 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.banner h1 {
+  color: white;
+}
+
 /* About me */
 /* Porfolio */
 .portfolio .title {

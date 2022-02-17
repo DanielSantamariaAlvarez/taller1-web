@@ -33,6 +33,27 @@ nav{
     z-index: 1030;
 }
 
+/* Banner */
+.banner{
+    background-image: url(https://images.unsplash.com/photo-1510915228340-29c85a43dcfe?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MjV8fGRldmVsb3BlcnxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=900&q=60);
+    position: center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    h1,h3{
+        text-align: center;
+        font-weight: bold;
+    }
+    h1{
+        color:white;
+    }
+}
+
 
 /* About me */
 
