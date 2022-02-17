@@ -14,4 +14,4 @@ The colors that I chose was:
 - Blue (#4fafff)
 - bg-light from bootstrap
 
-Daniel Santamaría Álvarez - 2022
+## Daniel Santamaría Álvarez - 2022
