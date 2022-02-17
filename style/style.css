@@ -1,0 +1,66 @@
+/* Colores */
+/* Clases globales */
+.margin-100 {
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.margin-30 {
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
+
+h2, h3 {
+  color: #e9791a;
+}
+
+/* Navbar */
+nav a {
+  color: #e9791a !important;
+}
+
+.navbar-fixed-top {
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 1030;
+}
+
+/* About me */
+/* Porfolio */
+.portfolio .title {
+  color: #e9791a;
+}
+
+/* Hobbies */
+.hobbies .title {
+  color: #e9791a;
+}
+
+/* footer */
+footer .social .facebook a, footer .social .twitter a, footer .social .linkedin a, footer .social .github a {
+  text-decoration: none;
+}
+
+footer .social .twitter svg {
+  color: #00acee;
+}
+
+footer .social .linkedin svg {
+  color: #0e76a8;
+}
+
+footer .social .github svg {
+  color: black;
+}
+
+footer .social .facebook svg {
+  color: #3b5998;
+}
+
+footer .copyright {
+  background-color: #e9791a;
+  color: white;
+}
+/*# sourceMappingURL=style.css.map */

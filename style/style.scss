@@ -1,0 +1,91 @@
+/* Colores */
+$blue:#4fafff ;
+$orange:#e9791a;
+
+/* Clases globales */
+.margin-100{
+    margin-top:100px;
+    margin-bottom:100px;
+}
+.margin-30{
+    margin-top:30px;
+    margin-bottom:30px;
+}
+h2,h3{
+    color:$orange;
+}
+
+
+/* Navbar */
+nav{
+    a{
+        color: $orange !important;;
+    }
+}
+.navbar-fixed-top{
+    position: fixed;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1030;
+}
+
+
+/* About me */
+
+
+/* Porfolio */
+.portfolio{
+    .title{
+        color: $orange;
+    }
+}
+
+
+
+
+/* Hobbies */
+.hobbies{
+    .title{
+        color:$orange;
+    }
+}
+
+
+
+/* footer */
+footer{
+    .social{
+        .facebook, .twitter, .linkedin, .github{
+            a{
+                text-decoration: none;
+            }
+        }
+        .twitter{
+            svg{
+                color: #00acee;
+            }
+        }
+        .linkedin{
+            svg{
+                color: #0e76a8;
+            }
+        }
+        .github{
+            svg{
+                color: black;
+            }
+        }
+        .facebook{
+            svg{
+                color: #3b5998;
+            }
+        }
+    }
+    .copyright{
+        background-color: $orange;
+        color: white;
+    }
+}
+
+
